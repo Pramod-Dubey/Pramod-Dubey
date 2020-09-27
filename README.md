@@ -29,4 +29,4 @@ Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **Co
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramod-Dubey&theme=radical&layout=compact)
 
-⭐️ From [HYDROX](https://github.com/Pramod-Dubey)
+⭐️ From [Pramod Dubey](https://github.com/Pramod-Dubey)
