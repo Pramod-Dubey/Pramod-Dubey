@@ -2,7 +2,7 @@
 
 <br />
 
-Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **Commerce Student** 🚀 from Chattisgarh, India.
+Hi there, I'm **Pramod Dubey**, a **Javascript and NodeJS developer** and a **10 th** 🚀 from Chattisgarh, India.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
